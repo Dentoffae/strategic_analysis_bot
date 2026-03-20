@@ -1,0 +1,15 @@
+# LangChain / OpenAI
+langchain
+langchain-openai
+langchain-core
+openai
+
+# Telegram bot
+aiogram
+
+# PDF generation
+reportlab
+
+# Utilities
+python-dotenv
+aiohttp
